@@ -7,9 +7,9 @@
 <!-- .slide: class="school-presentation" -->
 <div class="wifi">
     <span class="key">Wifi:</span>
-    <span> SfeirBeneluxWifi</span>
+    <span> ZERO_NEWTON_LEVEL_TWO</span>
     <br>
     <span class="key">Mot de passe: </span>
-    <span> Jnmrpdm2p<span>
+    <span> WIFI@level_two<span>
 </div>
 
