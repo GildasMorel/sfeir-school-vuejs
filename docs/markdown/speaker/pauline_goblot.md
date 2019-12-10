@@ -1,7 +1,7 @@
 <!-- .slide: class="speaker-slide" -->
 # Présentation
-![speaker](./assets/images/speaker/nicolas-frizzarin/nicoF.png)
+![speaker](./assets/images/speaker/pauline-goblot/paulineG.jpg)
 ![company](./assets/images/speaker/logo_sfeir_bleu_orange.png)
 ## Pauline Goblot
-### Développeur web front-end
+### Développeuse web front-end
 ### @goby_elfe
